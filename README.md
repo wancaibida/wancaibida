@@ -6,7 +6,7 @@
 * 熟悉 PostgresSQL
 * 熟悉 Gradle, Git
 * 熟悉 Bitbucket pipeline，Jenkins等CI工具
-* 熟悉 Linux环境，kubernetes，docker
-* 熟悉 AWS(S3，EKS，SQS，Lambda，EC2，Elasticbeanstalk，Cloudfront等)，Google Cloud(GKS，Cloud Storage，Cloud Functions，Pub/Sub), Firebase 等云平台
+* 熟悉 Linux环境，Kubernetes，Docker
+* 熟悉 AWS(IAM, S3，EKS，SQS，Lambda，EC2，Elasticbeanstalk，Cloudfront, App Runner等)，Google Cloud(GKS，Cloud Storage，Cloud Functions，Pub/Sub), Firebase 等云平台
 * 熟悉 AWS CDK
 * 了解 Terraform
